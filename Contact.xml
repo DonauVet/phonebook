@@ -1,5 +1,14 @@
 html<YealinkIPPhoneDirectory>
-  <DirectoryEntry><Name>Empfang</Name><Telephone>11</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Hermes</Name><Telephone>8</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Scholler</Name><Telephone>5</Telephone></DirectoryEntry>
-  <DirectoryEntry><Name>Karas-Räuber</Name><Telephone>6</Telephone></DirectoryEntry></YealinkIPPhoneDirectory>
+  <DirectoryEntry><Name>01 Empfang</Name><Telephone>11</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>02 Hermes</Name><Telephone>8</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>03 Scholler</Name><Telephone>5</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>04 Karas-Räuber</Name><Telephone>6</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>05 Palme</Name><Telephone>9</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>06 Westermeier</Name><Telephone>4</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>07 Ziarko</Name><Telephone>99</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>08 Löffelmann</Name><Telephone>7</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>09 Janik</Name><Telephone>15</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>10 Wittmann</Name><Telephone>98</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>11 Höfler</Name><Telephone>17</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>12 Kügel</Name><Telephone>18</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>13 Klemm</Name><Telephone>19</Telephone></DirectoryEntry></YealinkIPPhoneDirectory>
