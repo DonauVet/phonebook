@@ -1,1 +1,5 @@
-html<YealinkIPPhoneDirectory><DirectoryEntry><Name>Tom</Name><Telephone>66000</Telephone></DirectoryEntry><DirectoryEntry><Name>Jensen</Name><Telephone>29000</Telephone><Telephone>42</Telephone></DirectoryEntry><DirectoryEntry><Name>Phil</Name><Telephone>49880</Telephone></DirectoryEntry><DirectoryEntry><Name>Boss</Name><Telephone>10.10.32.147</Telephone></DirectoryEntry></YealinkIPPhoneDirectory>
+html<YealinkIPPhoneDirectory>
+  <DirectoryEntry><Name>Empfang</Name><Telephone>11</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Hermes</Name><Telephone>8</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Scholler</Name><Telephone>5</Telephone></DirectoryEntry>
+  <DirectoryEntry><Name>Karas-Räuber</Name><Telephone>6</Telephone></DirectoryEntry></YealinkIPPhoneDirectory>
